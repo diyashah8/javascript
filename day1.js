@@ -1,4 +1,4 @@
-var fullName = "Diya Shah";
+let fullName = "Diya Shah";
 let age = 20;
 const birthCountry = "Nepal";
 let favoriteColor = "Red";
